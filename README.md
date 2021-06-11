@@ -4,7 +4,7 @@
 
 :mortar_board: - Graduanda em Análise e Desenvolvimento de Sistemas
 
-:books: estudando:
+* [:books:] (estudando:)
 
 * [:beetle:] Quality Assurance
     
