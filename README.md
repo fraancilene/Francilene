@@ -1,7 +1,9 @@
 # Hello people... :wave:
 
 ###Eu sou Francilene
-:computer: - Estudande
+
+:mortar_board: - Graduanda em Análise e Desenvolvimento de Sistemas
+:mag: - Foco em Qualidade de Software e/ou Banco de Dados
 
 
 ### Encontre me por aqui: :earth_americas:
