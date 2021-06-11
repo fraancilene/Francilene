@@ -1,2 +1,2 @@
-# Hello people :wave:, I´m Fran :person_with_pouting_face:
+# Hello people, I'm Fran :wave:
 
