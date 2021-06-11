@@ -2,15 +2,9 @@
 
 
 
-Graduanda em Análise e Desenvolvimento de Sistemas
+:mortar_board: Graduanda em Análise e Desenvolvimento de Sistemas, estudo independente para Qualidade de Software e Banco de Dados. Atualmente estou em busca de uma oportunidade nas áreas citadas.
 
-* :books: Estudo idependente:
-
-    * :beetle: Qualidade de Software
-    
-    * :game_die: Banco de Dados
-    
- * Em busca de oportunidades...
+:rocket: :computer:
 
 
 
