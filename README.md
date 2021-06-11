@@ -1,8 +1,14 @@
-## Hello people, I'm  Francilene :wave:
+# Hello people, I'm  Francilene :wave:
+
+## About me...
+
+* :round_pushpin: Brasileira, atualmente morando em Portugal
+* :mortar_board: Graduanda em Análise e Desenvolvimento de Sistemas
+* :seedling: Aprendendo sobre Testes de Software e Banco de Dados
+* :hearts: Fã de Star Wars
+* :mag_right: Em busca de uma oportunidade na área de Testes (Tester Funcional, Quality Assurance)
 
 
-
-:mortar_board: Graduanda em Análise e Desenvolvimento de Sistemas, estudo independente para Testes de Software e Banco de Dados.
 
 ## :rocket: :computer: Tecnologias e Ferramentas
 
