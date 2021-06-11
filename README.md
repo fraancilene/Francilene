@@ -1,8 +1,8 @@
-# Hello people... :wave:
+### Hello people, I'm  Francilene :wave:
 
-###Eu sou Francilene
 
-* :mortar_board: - Graduanda em Análise e Desenvolvimento de Sistemas
+
+Graduanda em Análise e Desenvolvimento de Sistemas
 
 * :books: Estudo idependente:
 
