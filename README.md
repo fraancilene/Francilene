@@ -2,13 +2,13 @@
 
 ###Eu sou Francilene
 
-:mortar_board: - Graduanda em Análise e Desenvolvimento de Sistemas
+* :mortar_board: - Graduanda em Análise e Desenvolvimento de Sistemas
 
 * :books: estudo idependente:
 
-    *:beetle: Quality Assurance
+    * :beetle: Quality Assurance
     
-    *:game_die: Banco de Dados
+    * :game_die: Banco de Dados
 
 
 
