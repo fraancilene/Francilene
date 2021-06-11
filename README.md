@@ -12,6 +12,8 @@
 
 ## :rocket: :computer: Tecnologias e Ferramentas
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![Selenium](https://img.shields.io/badge/-Selenium-gray?style=for-the-badge&logo=selenium)
@@ -32,6 +34,22 @@
 
 
 ### Encontre me por aqui: :earth_americas:
+
+<a target="_blank" href="https://www.linkedin.com/in/francilene-silva/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/fraanpss/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="mailto:francilenesilva.fps10@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+
+
+
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-FrancileneSilva-blue?style=square&logo=Linkedin&logoColor=White&link=https://www.linkedin.com/in/francilene-silva/)](https://www.linkedin.com/in/francilene-silva/)
 [![Gmail Badge](https://img.shields.io/badge/francilenesilva.fps10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francilenesilva.fps10@gmail.com)](mailto:francilenesilva.fps10@gmail.com)
 
