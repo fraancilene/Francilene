@@ -6,9 +6,9 @@
 
 * :books: estudo idependente:
 
-* [:beetle:] Quality Assurance
+    *:beetle: Quality Assurance
     
-    - :game_die: Banco de Dados
+    *:game_die: Banco de Dados
 
 
 
