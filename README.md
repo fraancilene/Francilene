@@ -9,6 +9,8 @@
     * :beetle: Qualidade de Software
     
     * :game_die: Banco de Dados
+    
+ * Em busca de oportunidade...
 
 
 
