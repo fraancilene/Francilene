@@ -10,7 +10,7 @@
     
     * :game_die: Banco de Dados
     
- * Em busca de oportunidade...
+ * Em busca de oportunidades...
 
 
 
