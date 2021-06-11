@@ -7,12 +7,16 @@
 ## :rocket: :computer: Tecnologias e Ferramentas
 
 
-![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-![Selenium](https://img.shields.io/badge/-Selenium-gray?style=for-the-badge&logo=selenium)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-black?style=for-the-badge&logo=apache-jmeter)
-![TestComplet](https://img.shields.io/badge/-TestComplet-blue?style=for-the-badge&logo=apache-testComplet)
-![TestComplet](https://img.shields.io/badge/-TestLink-yellow?style=for-the-badge&logo=apache-testLink)
-![Katalon](https://img.shields.io/badge/-Katalon-green?style=for-the-badge&logo=apache-Katalon)
+![TestComplet](https://img.shields.io/badge/-TestComplet-blue?style=for-the-badge&logo=testComplet)
+![TestComplet](https://img.shields.io/badge/-TestLink-yellow?style=for-the-badge&logo=testLink)
+![Katalon](https://img.shields.io/badge/-Katalon-green?style=for-the-badge&logo=Katalon)
+
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle)
+
+
 
 
 
