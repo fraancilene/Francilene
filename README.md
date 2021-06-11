@@ -1,10 +1,10 @@
-### Hello people, I'm  Francilene :wave:
+## Hello people, I'm  Francilene :wave:
 
 
 
 :mortar_board: Graduanda em Análise e Desenvolvimento de Sistemas, estudo independente para Qualidade de Software e Banco de Dados. Atualmente estou em busca de uma oportunidade nas áreas citadas.
 
-# :rocket: :computer: Tecnologias e Ferramentas
+## :rocket: :computer: Tecnologias e Ferramentas
 
 
 
