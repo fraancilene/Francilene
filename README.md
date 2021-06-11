@@ -5,6 +5,9 @@
 :mortar_board: - Graduanda em Análise e Desenvolvimento de Sistemas
 
 :books: estudando:
+    - :beetle: Quality Assurance
+    
+    - :game_die: Banco de Dados
 
 
 
