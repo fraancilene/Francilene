@@ -3,7 +3,9 @@
 ###Eu sou Francilene
 
 :mortar_board: - Graduanda em Análise e Desenvolvimento de Sistemas
-:mag: - Foco em Qualidade de Software e/ou Banco de Dados
+
+:books: estudando:
+
 
 
 ### Encontre me por aqui: :earth_americas:
