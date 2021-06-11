@@ -4,9 +4,9 @@
 
 * :mortar_board: - Graduanda em Análise e Desenvolvimento de Sistemas
 
-* :books: estudo idependente:
+* :books: Estudo idependente:
 
-    * :beetle: Quality Assurance
+    * :beetle: Qualidade de Software
     
     * :game_die: Banco de Dados
 
