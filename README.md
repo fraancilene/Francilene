@@ -47,14 +47,6 @@
 
 
 
-
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-FrancileneSilva-blue?style=square&logo=Linkedin&logoColor=White&link=https://www.linkedin.com/in/francilene-silva/)](https://www.linkedin.com/in/francilene-silva/)
-[![Gmail Badge](https://img.shields.io/badge/francilenesilva.fps10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francilenesilva.fps10@gmail.com)](mailto:francilenesilva.fps10@gmail.com)
-
-
-
 Obrigada pela visita!
 </samp>
 
