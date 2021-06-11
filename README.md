@@ -6,9 +6,10 @@
 
 ## :rocket: :computer: Tecnologias e Ferramentas
 
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Java](https://img.shields.io/badge/-Java-336791?style=flat-square&logo=java)
+![Selenium](https://img.shields.io/badge/-Selenium-336791?style=flat-square&logo=selenium)
+
 
 
 
