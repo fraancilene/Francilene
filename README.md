@@ -1,4 +1,7 @@
-# Hello people, sou Fran :wave:
+# Hello people... :wave:
+
+###Eu sou Francilene
+:computer: - Estudande
 
 
 ### Encontre me por aqui: :earth_americas:
