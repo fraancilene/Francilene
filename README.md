@@ -43,5 +43,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+  ![Snake animation](https://github.com/fraancilene/fraancilene/blob/output/github-contribution-grid-snake.svg)
+
 
 
