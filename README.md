@@ -1,4 +1,4 @@
-# Hello people, I'm  Francilene :wave:
+# Oiii, eu sou Francilene :wave:
 
 ## About me...
 
@@ -12,24 +12,13 @@
 
 
 ## :rocket: :computer: Tecnologias e Ferramentas
+* Java
+* SQL - PL/SQL, T-SQL
+* Selenium, Katalon Studio, TestLink, Mantis Bug Tracker 
 
-<code><img src="https://img.icons8.com/color/70/000000/java-coffee-cup-logo.png/"/></code>
-<img src="https://img.icons8.com/officel/70/000000/selenium-test-automation.png"/>
-<img src="https://img.icons8.com/color/80/000000/oracle-logo.png"/>
-<img src="https://img.icons8.com/color/70/000000/microsoft-sql-server.png"/>
-
-![Jmeter](https://img.shields.io/badge/-Jmeter-black?style=for-the-badge&logo=apache-jmeter)
-![TestComplet](https://img.shields.io/badge/-TestComplet-blue?style=for-the-badge&logo=testComplet)
-![TestLink](https://img.shields.io/badge/-TestLink-yellow?style=for-the-badge&logo=testLink)
-![Katalon](https://img.shields.io/badge/-Katalon-green?style=for-the-badge&logo=Katalon)
-
-
-
-
-
-
-
-
+--*--
+* Cenários e Casos de Testes, Testes manuais (Testes Funcionais)
+* Metodologias Ágeis: Scrum, Kanban
 
 
 ### Encontre me por aqui: :earth_americas:
