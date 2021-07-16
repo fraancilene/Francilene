@@ -29,32 +29,22 @@
 * :mag_right: Em busca de uma oportunidade na área de Testes (Tester Funcional, Quality Assurance)
 
 ## Skills :computer:
-<!--<p align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
-   
-</p> -->
-* Java
-* SQL - PL/SQL, T-SQL
-* Selenium, Katalon Studio, TestLink, Mantis Bug Tracker 
 
---*--
-* Cenários e Casos de Testes, Testes manuais (Testes Funcionais)
+<div style="text-align: center;">
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v2.png"/>
+  <img src="https://img.icons8.com/officel/90/000000/selenium-test-automation.png"/>
+  <img src="https://img.icons8.com/color/96/000000/oracle-logo.png"/>
+  <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png"/>
+  <img height="96" width="96" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apachejmeter.svg" />
+  <img height="90" width="90" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftexcel.svg" />
+  <img height="90" width="90" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftword.svg" />
+
+</div>
+   
+* Katalon Studio, TestLink, Mantis Bug Tracker 
+* Cenários e Casos de Testes, Testes manuais
+* Testes Funcionais - Caixa preta  e regressão
+* Testes não funcionais - Carga e Stress
 * Metodologias Ágeis: Scrum, Kanban
 
 
