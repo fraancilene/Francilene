@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" width="400" height="400" src="fran.png" />
+    <!-- <img align="center" width="400" height="400" src="fran.png" /> -->
   </a>
 </p>
 
