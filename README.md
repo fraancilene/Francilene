@@ -23,10 +23,6 @@
 
 * :round_pushpin: Brasileira, atualmente morando em Portugal
 * :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas
-* :seedling: Aprendendo sobre Testes de Software e Banco de Dados
-* :hearts: Fã de Star Wars
-* :video_game: Joga CoD Mobile? Chama aí e vamos subir de patente... Ou não haha
-* :mag_right: Em busca de uma oportunidade na área de Testes (Tester Funcional, Quality Assurance)
 
 ## Skills :computer:
 
