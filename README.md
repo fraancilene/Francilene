@@ -2,8 +2,8 @@
 
 ## Hey! Welcome
 
-- 🔭 learning backend 
-- 🌱 Currently specializing and learning more about Java and spring boot
+- 🔭 learning mobile development
+- 🌱 Currently specializing and learning more about Android
 
  <div>
   <a href="https://github.com/fraancilene">
