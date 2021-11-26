@@ -23,7 +23,8 @@
 
 <img src="https://github.com/fraancilene/fraancilene/blob/main/octocat.png" min-width="230px" max-width="230px" width="230px" align="right" alt="Octocat">
 <h3 align="center">
- <img  src="https://github-readme-stats.vercel.app/api?username=fraancilene&show_icons=true&theme=dracula&include_all_commits=true&count_private=true alt="fraancilene" />
+ <!-- <img  src="https://github-readme-stats.vercel.app/api?username=fraancilene&show_icons=true&theme=dracula&include_all_commits=true&count_private=true alt="fraancilene" /> -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraancilene&layout=compact&langs_count=7&theme=dracula"/>
 </h3>
 
  
