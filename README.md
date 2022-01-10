@@ -3,7 +3,7 @@
 ## Hey! Welcome
 
 - :mortar_board: systems analysis and development student
-- 🔭 learning infrastructure | DevOps
+- 🔭 learning development Java/Kotlin
 <!--- 🌱 -->
 
  ## Tools I'm Studying :hammer_and_wrench:
