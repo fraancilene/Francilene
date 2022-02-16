@@ -3,7 +3,7 @@
 ## Hey! Welcome
 
 - :mortar_board: systems analysis and development student
-- 🔭 learning development Android with Java/Kotlin
+- 🔭 learning development Backend with Java and Spring
 <!--- 🌱 -->
 
  ## Tools I'm Studying :hammer_and_wrench:
