@@ -2,7 +2,7 @@
 
 ## Hey! Welcome
 
-- :mortar_board: systems analysis and development student
+- :mortar_board: Graduated in Systems Analysis and Development
 - 🔭 learning development Backend with Java and Spring
 <!--- 🌱 -->
 
